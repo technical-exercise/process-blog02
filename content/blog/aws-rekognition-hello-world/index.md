@@ -1,6 +1,7 @@
 ---
 title:  "AWS rekognition hello world"
 date:   "2019-01-30T15:03:00.000Z"
+description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
 This is a super simple snippet for checking if it's the same person in two
