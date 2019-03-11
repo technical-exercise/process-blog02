@@ -1,5 +1,5 @@
 ---
-title:  "AWS rekognition hello world"
+title:  "AWS Rekognition hello world"
 date:   "2019-01-30T15:03:00.000Z"
 ---
 

@@ -4,8 +4,8 @@ date:   "2019-01-29T15:03:00.000Z"
 ---
 
 En relación a esta
-[petición](/assets/foia/0303100005419/0303100005419-acuse.pdf) y su
-[respuesta](/assets/foia/0303100005419/0303100005419-reply01.pdf).
+[petición](./0303100005419-acuse.pdf) y su
+[respuesta](./0303100005419-reply01.pdf).
 
 Aceptan que han tenido conflictos. Dicen que C5 son *competentes parcialmente*.
 

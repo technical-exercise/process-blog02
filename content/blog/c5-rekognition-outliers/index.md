@@ -8,8 +8,9 @@ For some reason, Rekognition sees water in this
 
 We tweak a [script from the
 docs](https://docs.aws.amazon.com/rekognition/latest/dg/video-analyzing-with-sqs.html)
-to filter for *water*, *sea*, and *ocean* labels. [This](./label-detection.py)
-is the script, and this is its output:
+to filter for *water*, *sea*, and *ocean* labels. We use a local version of
+the video generated with `youtube-dl`. [This](./label-detection.py) is the
+script, and this is its output:
 
 ``` javascript
 {
@@ -48,8 +49,6 @@ is the script, and this is its output:
   'Timestamp': 1385
 }
 ```
-
-We use a local version of the video generated with `youtube-dl`.
 
 Seeing as, according to the script these labels only appear at the 1385
 millisecond mark, maybe we could think of it as an outlier, or as apophenia. It
