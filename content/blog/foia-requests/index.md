@@ -1,6 +1,7 @@
 ---
 title:  "FOIA requests"
 date:   "2019-03-09T17:46:00.000Z"
+description: Table for FOIA requests
 ---
 
 Start date       |         Folio | Acuse                                             | Reply1                                              | Reply1 date      | Retainer
